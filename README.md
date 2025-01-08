@@ -23,3 +23,8 @@ Enhances the Stop-and-Wait ARQ protocol, introducing mechanisms to improve effic
 Investigates TCP behavior in controlled scenarios, focusing on flow control, congestion handling, and protocol efficiency.
 
 
+## Lab Question: TCP Traffic Analysis
+Includes practical analysis of TCP traffic using `Wireshark`, focusing on connection setup, congestion control, retransmissions, and throughput evaluation under different network conditions.
+
+
+
